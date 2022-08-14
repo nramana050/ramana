@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<title>table in html</title>
+</head>
+<body bgcolor="green">
+<div align="center">
+<table border="1">
+   <thead>
+   <tr>
+     <td>names</td>
+     <td>class</td>
+     <td>roll no</td>
+     <td>percentage</td>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td>RAMANA</td>
+     <td>BTECH</td>
+     <td>17MH5A0371</td>
+     <td>85</td>
+ </tr>
+
+     <td>CHAKIRI</td>
+     <td>BTECH</td>
+     <td>17MH5A0372</td>
+     <td>83</td>
+</tr>
+
+     <td>NAVEEN</td>
+     <td>BTECH</td>
+     <td>17MH5A0373</td>
+     <td>82</td>
+
+
+
+</table>
+</div>
+</body>
+</html>
+
